@@ -1,7 +1,8 @@
 _________________________________________________________________________________________________________________________________________
 This is my IT/Network security portfolio designed to showcase my work, volunteer, and personal experience.                              
 _________________________________________________________________________________________________________________________________________
-This portfolio has involved a lot of troubleshooting and learning how to deploy a website using github pages.
+This portfolio has involved a lot of troubleshooting. This portfolio taught me how to step outside my comfort zone by deploying my 
+technology portfolio using github pages.
 _________________________________________________________________________________________________________________________________________
 I originally used wordpress to create my first portfolio but remade my portfolio using github pages due to the fact that
 wordpress implemented ads into my portfolio.
