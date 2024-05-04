@@ -5,7 +5,7 @@ This portfolio has involved a lot of troubleshooting. This also helped me step o
 technology portfolio using github pages.
 _________________________________________________________________________________________________________________________________________
 I originally used wordpress to create my first portfolio but remade my portfolio using github pages due to the fact that
-wordpress implemented ads into my portfolio.
+wordpress implemented ads into my portfolio. You can check that out at https://patrickmitchell0.wordpress.com/ if interested.
 _________________________________________________________________________________________________________________________________________
 I used this template to help get a baseline for my portfolio: https://github.com/helfi92/studorlio
 _________________________________________________________________________________________________________________________________________
