@@ -1,6 +1,6 @@
 _________________________________________________________________________________________________________________________________________
 This is my IT/Network security portfolio designed to showcase my work, volunteer, and personal experience. I will also showcase 
-my internship experience as a front end developer intern.
+my internship experience as a GenCyber Camp counselor.
 _________________________________________________________________________________________________________________________________________
 This portfolio has involved a lot of troubleshooting. This also helped me step outside my comfort zone by deploying my 
 technology portfolio using github pages.
