@@ -1,0 +1,25 @@
+# Allow/Disallow rules are firewall-style, processed top down. The most permissive rules should be placed at the bottom.
+Disallow: pages.bugcrowd.com
+Disallow: forum.bugcrowd.com
+Disallow: docs.bugcrowd.com
+Disallow: https://bugcrowd.com/?preview
+Allow: *
+
+# Crawl delay provides a guide for throttling automated scanners (1-120).
+Crawl-delay: 1
+
+# Reports should be sent to the email address or https page/endpoint nominated in this variable. 
+# Blank = security@company.com
+Report-to: https://bugcrowd.com/bugcrowd/report
+
+# Legal terms relating to security testing, including details of any incentive, are found below. Security rearchers should read these before commencing activity.
+Terms: https://bugcrowd.com/bugcrowd
+
+# Sitemap of the website where this file resides.
+Sitemap: https://bugcrowd.com/sitemap.xml
+
+# Disallow specific user agents which are of no interest to your organization.
+Disallow-user-agent: Acunetix
+
+# If your company would like to encourage testing of non-web targets (e.g. mobile applications), provide a link to the page which contains details of these targets here. Otherwise, leave blank.
+# Other-targets: https://company.com/security/targets
