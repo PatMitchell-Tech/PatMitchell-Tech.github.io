@@ -1,0 +1,5 @@
+/* styles.css */
+.avatar {
+    width: 150px; /* adjust width as needed */
+    height: auto; /* maintains aspect ratio */
+}
